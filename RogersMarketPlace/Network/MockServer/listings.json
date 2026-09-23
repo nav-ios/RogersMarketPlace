@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "EBD40270-3B1B-5545-AB50-4DF0A9071411",
+    "title": "iPhone 15",
+    "description": "Brand new in box. Pickup in Oakville or local delivery.",
+    "price": 819.72,
+    "category": "Electronics",
+    "location": "Burlington",
+    "imageURL": "https://picsum.photos/seed/electronics-0/600/600",
+    "updatedAt": "2026-09-02T02:52:00Z"
+  },
+  {
+    "id": "E8FFB10C-6EED-53BF-A8C2-D07D6C45DD0C",
+    "title": "iPhone 15 (refurbished)",
+    "description": "Moving sale, must go this week. Pickup in North York or local delivery.",
+    "price": 1346.67,
+    "category": "Electronics",
+    "location": "Toronto",
+    "imageURL": "https://picsum.photos/seed/electronics-1/600/600",
+    "updatedAt": "2026-09-17T06:02:00Z"
+  },
+  {
+    "id": "43493874-D2FF-5A95-90D7-F5B566A8E823",
+    "title": "iPhone 15 (bundle)",
+    "description": "Includes original accessories. Pickup in Mississauga or local delivery.",
+    "price": 228.58,
+    "category": "Electronics",
+    "location": "Markham",
+    "imageURL": "https://picsum.photos/seed/electronics-2/600/600",
+    "updatedAt": "2026-09-03T17:27:00Z"
+  },
+  {
+    "id": "7DDF2159-15B4-5BE5-A0F8-643B5AB92DD2",
+    "title": "MacBook Pro 14\"",
+    "description": "Good condition, minor wear. Pickup in Markham or local delivery.",
+    "price": 161.89,
+    "category": "Electronics",
+    "location": "Burlington",
+    "imageURL": "https://picsum.photos/seed/electronics-3/600/600",
+    "updatedAt": "2026-09-19T01:36:00Z"
+  },
+  {
+    "id": "A3516BBB-37D0-50C0-8757-DE6E70470C64",
+    "title": "MacBook Pro 14\" (refurbished)",
+    "description": "Like new, barely used. Pickup in Markham or local delivery.",
+    "price": 1470.07,
+    "category": "Electronics",
+    "location": "Toronto",
+    "imageURL": "https://picsum.photos/seed/electronics-4/600/600",
+    "updatedAt": "2026-09-18T04:18:00Z"
+  },
+  {
+    "id": "E4AC72B4-15FA-5B03-840F-EFB6843CF76D",
+    "title": "iPad Air",
+    "description": "Good condition, minor wear. Pickup in North York or local delivery.",
+    "price": 1056.56,
+    "category": "Electronics",
+    "location": "Vaughan",
+    "imageURL": "https://picsum.photos/seed/electronics-5/600/600",
+    "updatedAt": "2026-09-18T21:11:00Z"
+  },
+  {
+    "id": "23A93A18-601A-5373-AAFA-165D7821410B",
+    "title": "iPad Air (refurbished)",
+    "description": "Used for one season. Pickup in Richmond Hill or local delivery.",
+    "price": 271.09,
+    "category": "Electronics",
+    "location": "Mississauga",
+    "imageURL": "https://picsum.photos/seed/electronics-6/600/600",
+    "updatedAt": "2026-09-18T22:04:00Z"
+  },
+  {
+    "id": "4F7C30F4-4912-5EEC-9C2D-4D9CCA19D1A2",
+    "title": "Sony WH-1000XM5",
+    "description": "Used for one season. Pickup in Etobicoke or local delivery.",
+    "price": 1417.46,
+    "category": "Electronics",
+    "location": "Burlington",
+    "imageURL": "https://picsum.photos/seed/electronics-7/600/600",
+    "updatedAt": "2026-09-18T13:49:00Z"
+  },
+  {
+    "id": "720211B3-2176-58B6-85F8-E4298340FEFE",
+    "title": "Sony WH-1000XM5 (refurbished)",
+    "description": "Smoke-free, pet-free home. Pickup in Richmond Hill or local delivery.",
+    "price": 795.66,
+    "category": "Electronics",
+    "location": "Vaughan",
+    "imageURL": "https://picsum.photos/seed/electronics-8/600/600",
+    "updatedAt": "2026-09-08T05:44:00Z"
+  },
+  {
+    "id": "EC8130B1-D6C6-502B-AD46-1F818E19796E",
+    "title": "Nintendo Switch OLED",
+    "description": "Good condition, minor wear. Pickup in North York or local delivery.",
+    "price": 1952.88,
+    "category": "Electronics",
+    "location": "Vaughan",
+    "imageURL": "https://picsum.photos/seed/electronics-9/600/600",
+    "updatedAt": "2026-09-17T15:56:00Z"
+  },
+  {
+    "id": "43E29AD8-129D-5C4E-B278-044747C5D899",
+    "title": "Nintendo Switch OLED (refurbished)",
+    "description": "Smoke-free, pet-free home. Pickup in Vaughan or local delivery.",
+    "price": 868.54,
+    "category": "Electronics",
+    "location": "North York",
+    "imageURL": "https://picsum.photos/seed/electronics-10/600/600",
+    "updatedAt": "2026-09-03T03:32:00Z"
+  },
+  {
+    "id": "C4EE55BF-1D0A-53B2-8F59-3A27D5649183",
+    "title": "Samsung 55\" QLED TV",
+    "description": "Moving sale, must go this week. Pickup in Brampton or local delivery.",
+    "price": 1054.04,
+    "category": "Electronics",
+    "location": "Whitby",
+    "imageURL": "https://picsum.photos/seed/electronics-11/600/600",
+    "updatedAt": "2026-09-16T13:02:00Z"
+  },
+  {
+    "id": "818D5F94-210F-501A-867A-B631B196DD36",
+    "title": "Samsung 55\" QLED TV (refurbished)",
+    "description": "Good condition, minor wear. Pickup in Pickering or local delivery.",
+    "price": 2405.62,
+    "category": "Electronics",
+    "location": "Scarborough",
+    "imageURL": "https://picsum.photos/seed/electronics-12/600/600",
+    "updatedAt": "2026-09-19T10:21:00Z"
+  },
+  {
+    "id": "A11CB8AF-D804-5298-9601-54777BFFE4BD",
+    "title": "Kindle Paperwhite",
+    "description": "Smoke-free, pet-free home. Pickup in North York or local delivery.",
+    "price": 1742.81,
+    "category": "Electronics",
+    "location": "Pickering",
+    "imageURL": "https://picsum.photos/seed/electronics-13/600/600",
+    "updatedAt": "2026-09-15T02:53:00Z"
+  },
+  {
+    "id": "B9ED5BBE-826E-50D2-8C29-BED648FD2B1C",
+    "title": "Kindle Paperwhite (refurbished)",
+    "description": "Well loved, works perfectly. Pickup in Etobicoke or local delivery.",
+    "price": 247.59,
+    "category": "Electronics",
+    "location": "Ajax",
+    "imageURL": "https://picsum.photos/seed/electronics-14/600/600",
+    "updatedAt": "2026-09-03T01:46:00Z"
+  },
+  {
+    "id": "B9C5B120-B39A-549A-BE49-1A0AE8846FB2",
+    "title": "GoPro Hero 12",
+    "description": "Smoke-free, pet-free home. Pickup in Vaughan or local delivery.",
+    "price": 1758.21,
+    "category": "Electronics",
+    "location": "Ajax",
+    "imageURL": "https://picsum.photos/seed/electronics-15/600/600",
+    "updatedAt": "2026-09-13T21:22:00Z"
+  },
+  {
+    "id": "93F4778F-8CDB-57C7-9954-17BD65F0A3E3",
+    "title": "GoPro Hero 12 (refurbished)",
+    "description": "Smoke-free, pet-free home. Pickup in Richmond Hill or local delivery.",
+    "price": 71.07,
+    "category": "Electronics",
+    "location": "Brampton",
+    "imageURL": "https://picsum.photos/seed/electronics-16/600/600",
+    "updatedAt": "2026-09-20T03:31:00Z"
+  },
+  {
+    "id": "5BE4A809-EA08-5BE1-96B1-6A675E6E1D44",
+    "title": "Apple Watch Series 9",
+    "description": "Well loved, works perfectly. Pickup in Brampton or local delivery.",
+    "price": 161.5,
+    "category": "Electronics",
+    "location": "Ajax",
+    "imageURL": "https://picsum.photos/seed/electronics-17/600/600",
+    "updatedAt": "2026-09-08T12:25:00Z"
+  },
+  {
+    "id": "9B05EF8E-07F0-540A-A6EB-55100BC9C887",
+    "title": "Apple Watch Series 9 (refurbished)",
+    "description": "Smoke-free, pet-free home. Pickup in Mississauga or local delivery.",
+    "price": 2293.29,
+    "category": "Electronics",
+    "location": "Brampton",
+    "imageURL": "https://picsum.photos/seed/electronics-18/600/600",
+    "updatedAt": "2026-09-15T12:35:00Z"
+  },
+  {
+    "id": "BE23DD71-E28B-508D-8A0B-63DF4E4253CC",
+    "title": "Bose SoundLink",
+    "description": "Brand new in box. Pickup in Milton or local delivery.",
+    "price": 705.43,
+    "category": "Electronics",
+    "location": "Oakville",
+    "imageURL": "https://picsum.photos/seed/electronics-19/600/600",
+    "updatedAt": "2026-09-18T08:45:00Z"
+  },
+  {
+    "id": "923245EE-893F-5C19-B0E7-D7A421F72FEC",
+    "title": "Bose SoundLink (refurbished)",
+    "description": "Moving sale, must go this week. Pickup in Burlington or local delivery.",
+    "price": 1047.01,
+    "category": "Electronics",
+    "location": "Whitby",
+    "imageURL": "https://picsum.photos/seed/electronics-20/600/600",
+    "updatedAt": "2026-09-13T07:09:00Z"
+  },
+  {
+    "id": "870FC609-1841-5DF8-A30B-29CB5FEB0F8E",
+    "title": "Dyson V15",
+    "description": "Brand new in box. Pickup in Markham or local delivery.",
+    "price": 221.22,
+    "category": "Electronics",
+    "location": "Burlington",
+    "imageURL": "https://picsum.photos/seed/electronics-21/600/600",
+    "updatedAt": "2026-09-08T00:31:00Z"
+  },
+  {
+    "id": "E4E4D011-9C69-51DB-B800-CAE308077D73",
+    "title": "Dyson V15 (refurbished)",
+    "description": "Brand new in box. Pickup in Vaughan or local delivery.",
+    "price": 2080.27,
+    "category": "Electronics",
+    "location": "Vaughan",
+    "imageURL": "https://picsum.photos/seed/electronics-22/600/600",
+    "updatedAt": "2026-09-01T04:26:00Z"
+  },
+  {
+    "id": "86633AB9-61D6-57B1-A451-DDA4334C35BE",
+    "title": "Canon EOS R50",
+    "description": "Moving sale, must go this week. Pickup in Brampton or local delivery.",
+    "price": 1343.46,
+    "category": "Electronics",
+    "location": "Ajax",
+    "imageURL": "https://picsum.photos/seed/electronics-23/600/600",
+    "updatedAt": "2026-09-17T19:41:00Z"
+  },
+  {
+    "id": "15AC5723-3434-57D3-8CC9-1DDCBAFAA0A8",
+    "title": "Canon EOS R50 (refurbished)",
+    "description": "Like new, barely used. Pickup in Etobicoke or local delivery.",
+    "price": 1695.36,
+    "category": "Electronics",
+    "location": "Whitby",
+    "imageURL": "https://picsum.photos/seed/electronics-24/600/600",
+    "updatedAt": "2026-09-18T12:25:00Z"
+  },
+  {
+    "id": "24E8F435-86E0-5843-AF3B-0EED005B648A",
+    "title": "PS5 Slim",
+    "description": "Good condition, minor wear. Pickup in Etobicoke or local delivery.",
+    "price": 1006.46,
+    "category": "Electronics",
+    "location": "Burlington",
+    "imageURL": "https://picsum.photos/seed/electronics-25/600/600",
+    "updatedAt": "2026-09-13T01:12:00Z"
+  },
+  {
+    "id": "D1CA6BE6-8166-5532-B9A3-36BFCFEF3685",
+    "title": "PS5 Slim (refurbished)",
+    "description": "Used for one season. Pickup in Etobicoke or local delivery.",
+    "price": 182.36,
+    "category": "Electronics",
+    "location": "Brampton",
+    "imageURL": "https://picsum.photos/seed/electronics-26/600/600",
+    "updatedAt": "2026-09-04T10:38:00Z"
+  },
+  {
+    "id": "48157CA1-C4B6-5DC3-ADF2-54255CB1E0D2",
+    "title": "Mechanical keyboard",
+    "description": "Like new, barely used. Pickup in North York or local delivery.",
+    "price": 145.65,
+    "category": "Electronics",
+    "location": "Brampton",
+    "imageURL": "https://picsum.photos/seed/electronics-27/600/600",
+    "updatedAt": "2026-09-18T03:23:00Z"
+  },
+  {
+    "id": "FC59FC49-8AC5-573C-8B4A-684590D6546C",
+    "title": "Mechanical keyboard (refurbished)",
+    "description": "Good condition, minor wear. Pickup in Milton or local delivery.",
+    "price": 1540.14,
+    "category": "Electronics",
+    "location": "Markham",
+    "imageURL": "https://picsum.photos/seed/electronics-28/600/600",
+    "updatedAt": "2026-09-20T12:09:00Z"
+  },
+  {
+    "id": "3858EDD6-A519-532D-8276-11C6C9FE5E2B",
+    "title": "4K monitor 27\"",
+    "description": "Moving sale, must go this week. Pickup in North York or local delivery.",
+    "price": 1591.51,
+    "category": "Electronics",
+    "location": "Richmond Hill",
+    "imageURL": "https://picsum.photos/seed/electronics-29/600/600",
+    "updatedAt": "2026-09-16T03:07:00Z"
+  },
+  {
+    "id": "A3E90FD0-ED1D-5449-8F81-1A1BF4338989",
+    "title": "4K monitor 27\" (refurbished)",
+    "description": "Smoke-free, pet-free home. Pickup in Etobicoke or local delivery.",
+    "price": 2124.61,
+    "category": "Electronics",
+    "location": "Etobicoke",
+    "imageURL": "https://picsum.photos/seed/electronics-30/600/600",
+    "updatedAt": "2026-09-10T02:09:00Z"
+  },
+  {
+    "id": "A9F70FB3-8294-557B-8089-D82B960800B0",
+    "title": "Oak dining table",
+    "description": "Moving sale, must go this week. Pickup in Ajax or local delivery.",
+    "price": 268.94,
+    "category": "Furniture",
+    "location": "Vaughan",
+    "imageURL": "https://picsum.photos/seed/furniture-31/600/600",
+    "updatedAt": "2026-09-16T22:10:00Z"
+  },
+  {
+    "id": "3BE54E58-E773-53FA-B289-15C176B66053",
+    "title": "Oak dining table (refurbished)",
+    "description": "Used for one season. Pickup in Scarborough or local delivery.",
+    "price": 1298.09,
+    "category": "Furniture",
+    "location": "Richmond Hill",
+    "imageURL": "https://picsum.photos/seed/furniture-32/600/600",
+    "updatedAt": "2026-09-05T22:34:00Z"
+  },
+  {
+    "id": "0F3264F0-7B84-5F9E-A859-95313E164E75",
+    "title": "IKEA Kallax shelf",
+    "description": "Well loved, works perfectly. Pickup in Burlington or local delivery.",
+    "price": 2286.65,
+    "category": "Furniture",
+    "location": "Milton",
+    "imageURL": "https://picsum.photos/seed/furniture-33/600/600",
+    "updatedAt": "2026-09-03T22:54:00Z"
+  },
+  {
+    "id": "8B20DA95-9792-54E0-9273-EEF26EF6B20F",
+    "title": "IKEA Kallax shelf (refurbished)",
+    "description": "Moving sale, must go this week. Pickup in Whitby or local delivery.",
+    "price": 663.87,
+    "category": "Furniture",
+    "location": "Brampton",
+    "imageURL": "https://picsum.photos/seed/furniture-34/600/600",
+    "updatedAt": "2026-09-12T07:34:00Z"
+  },
+  {
+    "id": "CEB52C80-44C8-53DD-B615-A4B0103BFE3E",
+    "title": "Standing desk",
+    "description": "Moving sale, must go this week. Pickup in Burlington or local delivery.",
+    "price": 1360.79,
+    "category": "Furniture",
+    "location": "Markham",
+    "imageURL": "https://picsum.photos/seed/furniture-35/600/600",
+    "updatedAt": "2026-09-20T06:51:00Z"
+  },
+  {
+    "id": "E735F1EB-FC97-5EE9-A1A6-59DEA8D36D78",
+    "title": "Standing desk (refurbished)",
+    "description": "Includes original accessories. Pickup in Ajax or local delivery.",
+    "price": 609.88,
+    "category": "Furniture",
+    "location": "Pickering",
+    "imageURL": "https://picsum.photos/seed/furniture-36/600/600",
+    "updatedAt": "2026-09-08T06:33:00Z"
+  },
+  {
+    "id": "0D3155AF-5617-5028-BF62-84DB06CC5075",
+    "title": "Leather sofa",
+    "description": "Like new, barely used. Pickup in Toronto or local delivery.",
+    "price": 1239.56,
+    "category": "Furniture",
+    "location": "Pickering",
+    "imageURL": "https://picsum.photos/seed/furniture-37/600/600",
+    "updatedAt": "2026-09-09T15:16:00Z"
+  },
+  {
+    "id": "2B2FF517-2D68-5337-9444-5595E99BEC91",
+    "title": "Leather sofa (refurbished)",
+    "description": "Moving sale, must go this week. Pickup in Etobicoke or local delivery.",
+    "price": 496.21,
+    "category": "Furniture",
+    "location": "Pickering",
+    "imageURL": "https://picsum.photos/seed/furniture-38/600/600",
+    "updatedAt": "2026-09-12T11:05:00Z"
+  },
+  {
+    "id": "29539FEC-8F32-5397-A1B6-0ADD9052DA92",
+    "title": "Queen bed frame",
+    "description": "Used for one season. Pickup in Etobicoke or local delivery.",
+    "price": 562.85,
+    "category": "Furniture",
+    "location": "Markham",
+    "imageURL": "https://picsum.photos/seed/furniture-39/600/600",
+    "updatedAt": "2026-09-11T06:30:00Z"
+  },
+  {
+    "id": "BE607851-465C-5D07-B2D7-2ED851CB5CD0",
+    "title": "Queen bed frame (refurbished)",
+    "description": "Like new, barely used. Pickup in Etobicoke or local delivery.",
+    "price": 1565.8,
+    "category": "Furniture",
+    "location": "Whitby",
+    "imageURL": "https://picsum.photos/seed/furniture-40/600/600",
+    "updatedAt": "2026-09-12T20:05:00Z"
+  },
+  {
+    "id": "BF4261D2-21F8-5AE4-B436-DFFF239493A9",
+    "title": "Bookshelf",
+    "description": "Good condition, minor wear. Pickup in Whitby or local delivery.",
+    "price": 2089.1,
+    "category": "Furniture",
+    "location": "Oakville",
+    "imageURL": "https://picsum.photos/seed/furniture-41/600/600",
+    "updatedAt": "2026-09-07T15:56:00Z"
+  },
+  {
+    "id": "BE1966BE-60CA-5AEC-8432-A719C4D8369B",
+    "title": "Bookshelf (refurbished)",
+    "description": "Moving sale, must go this week. Pickup in Mississauga or local delivery.",
+    "price": 458.63,
+    "category": "Furniture",
+    "location": "Pickering",
+    "imageURL": "https://picsum.photos/seed/furniture-42/600/600",
+    "updatedAt": "2026-09-13T14:25:00Z"
+  },
+  {
+    "id": "7EE6B7C9-30CB-59F7-B989-7B06E8128325",
+    "title": "Office chair",
+    "description": "Good condition, minor wear. Pickup in Ajax or local delivery.",
+    "price": 1862.23,
+    "category": "Furniture",
+    "location": "Brampton",
+    "imageURL": "https://picsum.photos/seed/furniture-43/600/600",
+    "updatedAt": "2026-09-06T04:01:00Z"
+  },
+  {
+    "id": "AFF865DE-F224-5310-8C7B-23FF2DC78CBB",
+    "title": "Office chair (refurbished)",
+    "description": "Smoke-free, pet-free home. Pickup in Pickering or local delivery.",
+    "price": 390.61,
+    "category": "Furniture",
+    "location": "Burlington",
+    "imageURL": "https://picsum.photos/seed/furniture-44/600/600",
+    "updatedAt": "2026-09-05T19:52:00Z"
+  },
+  {
+    "id": "DE851AFD-FAB8-5E0B-9285-BBDAF72C3E49",
+    "title": "Coffee table",
+    "description": "Smoke-free, pet-free home. Pickup in Burlington or local delivery.",
+    "price": 1495.74,
+    "category": "Furniture",
+    "location": "Whitby",
+    "imageURL": "https://picsum.photos/seed/furniture-45/600/600",
+    "updatedAt": "2026-09-12T04:35:00Z"
+  },
+  {
+    "id": "5B593CE6-CF5C-58D2-A4BE-69F9A821A8AB",
+    "title": "Coffee table (refurbished)",
+    "description": "Like new, barely used. Pickup in Toronto or local delivery.",
+    "price": 1377.49,
+    "category": "Furniture",
+    "location": "Pickering",
+    "imageURL": "https://picsum.photos/seed/furniture-46/600/600",
+    "updatedAt": "2026-09-04T16:47:00Z"
+  },
+  {
+    "id": "4FBE7A75-E984-59AF-9B61-0681832467FF",
+    "title": "Bar stools (set of 2)",
+    "description": "Includes original accessories. Pickup in Milton or local delivery.",
+    "price": 2335.06,
+    "category": "Furniture",
+    "location": "Markham",
+    "imageURL": "https://picsum.photos/seed/furniture-47/600/600",
+    "updatedAt": "2026-09-07T00:16:00Z"
+  },
+  {
+    "id": "1E06FCE9-5F5E-5CE8-B79D-606B01E09AD6",
+    "title": "Bar stools (set of 2) (refurbished)",
+    "description": "Used for one season. Pickup in Pickering or local delivery.",
+    "price": 543.76,
+    "category": "Furniture",
+    "location": "North York",
+    "imageURL": "https://picsum.photos/seed/furniture-48/600/600",
+    "updatedAt": "2026-09-11T08:34:00Z"
+  },
+  {
+    "id": "487FB12D-94BB-5100-AEF9-7DB75F734294",
+    "title": "Wardrobe",
+    "description": "Brand new in box. Pickup in Toronto or local delivery.",
+    "price": 1056.25,
+    "category": "Furniture",
+    "location": "Whitby",
+    "imageURL": "https://picsum.photos/seed/furniture-49/600/600",
+    "updatedAt": "2026-09-12T14:42:00Z"
+  },
+  {
+    "id": "D17824A4-2E94-5569-ABE1-319AE5CCC32E",
+    "title": "Wardrobe (refurbished)",
+    "description": "Includes original accessories. Pickup in Milton or local delivery.",
+    "price": 1464.62,
+    "category": "Furniture",
+    "location": "Whitby",
+    "imageURL": "https://picsum.photos/seed/furniture-50/600/600",
+    "updatedAt": "2026-09-17T04:34:00Z"
+  },
+  {
+    "id": "FDC352A7-7FC7-55F1-B9C7-994624260B78",
+    "title": "TV stand",
+    "description": "Like new, barely used. Pickup in Milton or local delivery.",
+    "price": 392.31,
+    "category": "Furniture",
+    "location": "Etobicoke",
+    "imageURL": "https://picsum.photos/seed/furniture-51/600/600",
+    "updatedAt": "2026-09-06T19:00:00Z"
+  },
+  {
+    "id": "DDA29C0E-06AD-5BB8-9317-D0D78BF5350B",
+    "title": "TV stand (refurbished)",
+    "description": "Brand new in box. Pickup in Brampton or local delivery.",
+    "price": 1943.46,
+    "category": "Furniture",
+    "location": "Brampton",
+    "imageURL": "https://picsum.photos/seed/furniture-52/600/600",
+    "updatedAt": "2026-09-16T19:46:00Z"
+  },
+  {
+    "id": "70C8C9C3-C817-5274-850B-48F69AC0136A",
+    "title": "Nightstand pair",
+    "description": "Like new, barely used. Pickup in Richmond Hill or local delivery.",
+    "price": 314.04,
+    "category": "Furniture",
+    "location": "Burlington",
+    "imageURL": "https://picsum.photos/seed/furniture-53/600/600",
+    "updatedAt": "2026-09-17T16:35:00Z"
+  },
+  {
+    "id": "CE0C02B4-4558-5B09-B7B8-FBB0177547C8",
+    "title": "Nightstand pair (refurbished)",
+    "description": "Good condition, minor wear. Pickup in Whitby or local delivery.",
+    "price": 1213.98,
+    "category": "Furniture",
+    "location": "Scarborough",
+    "imageURL": "https://picsum.photos/seed/furniture-54/600/600",
+    "updatedAt": "2026-09-02T07:12:00Z"
+  },
+  {
+    "id": "EC59C5C6-E8AE-56C2-A2BA-4902096F7561",
+    "title": "Dresser",
+    "description": "Good condition, minor wear. Pickup in Scarborough or local delivery.",
+    "price": 703.14,
+    "category": "Furniture",
+    "location": "Etobicoke",
+    "imageURL": "https://picsum.photos/seed/furniture-55/600/600",
+    "updatedAt": "2026-09-18T00:48:00Z"
+  },
+  {
+    "id": "31D9B3E6-A172-5221-93B6-BF393328E150",
+    "title": "Dresser (refurbished)",
+    "description": "Good condition, minor wear. Pickup in Etobicoke or local delivery.",
+    "price": 2236.62,
+    "category": "Furniture",
+    "location": "Richmond Hill",
+    "imageURL": "https://picsum.photos/seed/furniture-56/600/600",
+    "updatedAt": "2026-09-20T16:38:00Z"
+  },
+  {
+    "id": "CE9217C7-B8E6-5F60-BDC5-8B5316F7F021",
+    "title": "Patio set",
+    "description": "Well loved, works perfectly. Pickup in Etobicoke or local delivery.",
+    "price": 1287.72,
+    "category": "Furniture",
+    "location": "Scarborough",
+    "imageURL": "https://picsum.photos/seed/furniture-57/600/600",
+    "updatedAt": "2026-09-18T15:32:00Z"
+  },
+  {
+    "id": "8D6AB3F6-79CC-5B2A-8D91-57D47799B7D1",
+    "title": "Patio set (refurbished)",
+    "description": "Well loved, works perfectly. Pickup in Whitby or local delivery.",
+    "price": 2354.63,
+    "category": "Furniture",
+    "location": "Scarborough",
+    "imageURL": "https://picsum.photos/seed/furniture-58/600/600",
+    "updatedAt": "2026-09-07T14:08:00Z"
+  },
+  {
+    "id": "CE9FEE41-DD21-573C-8888-199722914A54",
+    "title": "Kids bunk bed",
+    "description": "Includes original accessories. Pickup in Etobicoke or local delivery.",
+    "price": 1050.34,
+    "category": "Furniture",
+    "location": "Richmond Hill",
+    "imageURL": "https://picsum.photos/seed/furniture-59/600/600",
+    "updatedAt": "2026-09-03T21:15:00Z"
+  },
+  {
+    "id": "4DA19976-55A7-5821-AC18-73F37E1D943B",
+    "title": "Kids bunk bed (refurbished)",
+    "description": "Used for one season. Pickup in Burlington or local delivery.",
+    "price": 1079.42,
+    "category": "Furniture",
+    "location": "Vaughan",
+    "imageURL": "https://picsum.photos/seed/furniture-60/600/600",
+    "updatedAt": "2026-09-04T04:45:00Z"
+  },
+  {
+    "id": "EA6D035A-E02A-5377-9559-0D107D1B994C",
+    "title": "Canada Goose parka",
+    "description": "Moving sale, must go this week. Pickup in Brampton or local delivery.",
+    "price": 1613.99,
+    "category": "Fashion",
+    "location": "Vaughan",
+    "imageURL": "https://picsum.photos/seed/fashion-61/600/600",
+    "updatedAt": "2026-09-05T14:14:00Z"
+  },
+  {
+    "id": "F979411E-5BA7-54DA-B7F4-D9D4F0DE59BC",
+    "title": "Canada Goose parka (refurbished)",
+    "description": "Good condition, minor wear. Pickup in Oakville or local delivery.",
+    "price": 1870.5,
+    "category": "Fashion",
+    "location": "Whitby",
+    "imageURL": "https://picsum.photos/seed/fashion-62/600/600",
+    "updatedAt": "2026-09-16T05:42:00Z"
+  },
+  {
+    "id": "A1F98DD3-9916-51EE-A705-ED2C022A6FFB",
+    "title": "Nike Air Max 90",
+    "description": "Brand new in box. Pickup in Ajax or local delivery.",
+    "price": 2083.63,
+    "category": "Fashion",
+    "location": "Oakville",
+    "imageURL": "https://picsum.photos/seed/fashion-63/600/600",
+    "updatedAt": "2026-09-17T12:21:00Z"
+  },
+  {
+    "id": "5BE9A495-1A3F-59D4-86B6-0B0207A13CC3",
+    "title": "Nike Air Max 90 (refurbished)",
+    "description": "Moving sale, must go this week. Pickup in Richmond Hill or local delivery.",
+    "price": 1061.87,
+    "category": "Fashion",
+    "location": "Mississauga",
+    "imageURL": "https://picsum.photos/seed/fashion-64/600/600",
+    "updatedAt": "2026-09-12T00:21:00Z"
+  },
+  {
+    "id": "898DA84D-9BEE-577E-A69D-6BD1F92B2705",
+    "title": "Levi's 501 jeans",
+    "description": "Smoke-free, pet-free home. Pickup in Ajax or local delivery.",
+    "price": 1391.81,
+    "category": "Fashion",
+    "location": "Toronto",
+    "imageURL": "https://picsum.photos/seed/fashion-65/600/600",
+    "updatedAt": "2026-09-13T10:33:00Z"
+  },
+  {
+    "id": "B9D0D0C4-C2FC-5EBF-A2AA-5C1C7B55538A",
+    "title": "Levi's 501 jeans (refurbished)",
+    "description": "Good condition, minor wear. Pickup in Mississauga or local delivery.",
+    "price": 1565.46,
+    "category": "Fashion",
+    "location": "Whitby",
+    "imageURL": "https://picsum.photos/seed/fashion-66/600/600",
+    "updatedAt": "2026-09-08T03:05:00Z"
+  },
+  {
+    "id": "B34EA09B-DC0F-5128-B260-59433F29FFE7",
+    "title": "Ray-Ban Wayfarer",
+    "description": "Like new, barely used. Pickup in Whitby or local delivery.",
+    "price": 674.93,
+    "category": "Fashion",
+    "location": "Pickering",
+    "imageURL": "https://picsum.photos/seed/fashion-67/600/600",
+    "updatedAt": "2026-09-06T08:48:00Z"
+  },
+  {
+    "id": "08789C8D-36D7-54F9-B367-DD35737AA688",
+    "title": "Ray-Ban Wayfarer (refurbished)",
+    "description": "Includes original accessories. Pickup in Milton or local delivery.",
+    "price": 336.95,
+    "category": "Fashion",
+    "location": "Whitby",
+    "imageURL": "https://picsum.photos/seed/fashion-68/600/600",
+    "updatedAt": "2026-09-09T12:09:00Z"
+  },
+  {
+    "id": "43095D71-8E63-58E6-8C44-6CF2A0DB5E12",
+    "title": "Lululemon jacket",
+    "description": "Smoke-free, pet-free home. Pickup in Ajax or local delivery.",
+    "price": 1348.45,
+    "category": "Fashion",
+    "location": "Richmond Hill",
+    "imageURL": "https://picsum.photos/seed/fashion-69/600/600",
+    "updatedAt": "2026-09-03T08:03:00Z"
+  },
+  {
+    "id": "7E702B81-342E-51E7-B33A-6A8A66C701E8",
+    "title": "Lululemon jacket (refurbished)",
+    "description": "Brand new in box. Pickup in Oakville or local delivery.",
+    "price": 2001.98,
+    "category": "Fashion",
+    "location": "Whitby",
+    "imageURL": "https://picsum.photos/seed/fashion-70/600/600",
+    "updatedAt": "2026-09-03T08:01:00Z"
+  },
+  {
+    "id": "20ED69A2-F2EC-5972-B2E5-59373CAF6B41",
+    "title": "Blundstone boots",
+    "description": "Well loved, works perfectly. Pickup in Mississauga or local delivery.",
+    "price": 1591.58,
+    "category": "Fashion",
+    "location": "North York",
+    "imageURL": "https://picsum.photos/seed/fashion-71/600/600",
+    "updatedAt": "2026-09-08T02:16:00Z"
+  },
+  {
+    "id": "52D209DE-047C-5852-B738-E66F9F10F47A",
+    "title": "Blundstone boots (refurbished)",
+    "description": "Smoke-free, pet-free home. Pickup in Toronto or local delivery.",
+    "price": 2159.0,
+    "category": "Fashion",
+    "location": "Richmond Hill",
+    "imageURL": "https://picsum.photos/seed/fashion-72/600/600",
+    "updatedAt": "2026-09-18T13:59:00Z"
+  },
+  {
+    "id": "6AF41A31-8045-555A-AB06-05618BE96E43",
+    "title": "North Face fleece",
+    "description": "Brand new in box. Pickup in Toronto or local delivery.",
+    "price": 2289.84,
+    "category": "Fashion",
+    "location": "Scarborough",
+    "imageURL": "https://picsum.photos/seed/fashion-73/600/600",
+    "updatedAt": "2026-09-08T03:10:00Z"
+  },
+  {
+    "id": "4EFE79BF-C401-5890-B764-584E75475932",
+    "title": "North Face fleece (refurbished)",
+    "description": "Brand new in box. Pickup in Markham or local delivery.",
+    "price": 665.81,
+    "category": "Fashion",
+    "location": "Whitby",
+    "imageURL": "https://picsum.photos/seed/fashion-74/600/600",
+    "updatedAt": "2026-09-10T20:19:00Z"
+  },
+  {
+    "id": "0CF7E22D-886B-55F4-8A3A-FF84AC13606C",
+    "title": "Coach handbag",
+    "description": "Used for one season. Pickup in Vaughan or local delivery.",
+    "price": 1334.75,
+    "category": "Fashion",
+    "location": "Etobicoke",
+    "imageURL": "https://picsum.photos/seed/fashion-75/600/600",
+    "updatedAt": "2026-09-17T21:11:00Z"
+  },
+  {
+    "id": "FA214040-F238-581D-B484-C09477722D25",
+    "title": "Coach handbag (refurbished)",
+    "description": "Like new, barely used. Pickup in Vaughan or local delivery.",
+    "price": 687.25,
+    "category": "Fashion",
+    "location": "Toronto",
+    "imageURL": "https://picsum.photos/seed/fashion-76/600/600",
+    "updatedAt": "2026-09-01T00:46:00Z"
+  },
+  {
+    "id": "7121B793-EAAF-5C2A-B7B8-665ED1A87139",
+    "title": "Winter boots",
+    "description": "Used for one season. Pickup in Scarborough or local delivery.",
+    "price": 1271.55,
+    "category": "Fashion",
+    "location": "Etobicoke",
+    "imageURL": "https://picsum.photos/seed/fashion-77/600/600",
+    "updatedAt": "2026-09-08T14:06:00Z"
+  },
+  {
+    "id": "08798474-B584-52A9-9AA6-BBF77BF2E37B",
+    "title": "Winter boots (refurbished)",
+    "description": "Includes original accessories. Pickup in Burlington or local delivery.",
+    "price": 1650.93,
+    "category": "Fashion",
+    "location": "Etobicoke",
+    "imageURL": "https://picsum.photos/seed/fashion-78/600/600",
+    "updatedAt": "2026-09-18T12:32:00Z"
+  },
+  {
+    "id": "FC180349-065C-5D9F-8C45-B8FF24D5A4D7",
+    "title": "Wool overcoat",
+    "description": "Used for one season. Pickup in Markham or local delivery.",
+    "price": 779.84,
+    "category": "Fashion",
+    "location": "Richmond Hill",
+    "imageURL": "https://picsum.photos/seed/fashion-79/600/600",
+    "updatedAt": "2026-09-07T22:46:00Z"
+  },
+  {
+    "id": "BF2AC524-8B4B-5948-866F-A248DE5209B9",
+    "title": "Wool overcoat (refurbished)",
+    "description": "Includes original accessories. Pickup in Richmond Hill or local delivery.",
+    "price": 1595.4,
+    "category": "Fashion",
+    "location": "Toronto",
+    "imageURL": "https://picsum.photos/seed/fashion-80/600/600",
+    "updatedAt": "2026-09-05T00:04:00Z"
+  },
+  {
+    "id": "A1B81459-67EE-5E0B-B757-0B9C2EB72814",
+    "title": "Running shoes",
+    "description": "Well loved, works perfectly. Pickup in Oakville or local delivery.",
+    "price": 1569.24,
+    "category": "Fashion",
+    "location": "Brampton",
+    "imageURL": "https://picsum.photos/seed/fashion-81/600/600",
+    "updatedAt": "2026-09-02T02:42:00Z"
+  },
+  {
+    "id": "989D0DBD-C73D-557C-8960-DA2BB00F1A8E",
+    "title": "Running shoes (refurbished)",
+    "description": "Well loved, works perfectly. Pickup in North York or local delivery.",
+    "price": 2105.55,
+    "category": "Fashion",
+    "location": "Markham",
+    "imageURL": "https://picsum.photos/seed/fashion-82/600/600",
+    "updatedAt": "2026-09-10T01:29:00Z"
+  },
+  {
+    "id": "5620FB6C-6F81-539B-88D2-B43B10FB0B0B",
+    "title": "Denim jacket",
+    "description": "Well loved, works perfectly. Pickup in Etobicoke or local delivery.",
+    "price": 475.6,
+    "category": "Fashion",
+    "location": "Toronto",
+    "imageURL": "https://picsum.photos/seed/fashion-83/600/600",
+    "updatedAt": "2026-09-09T11:21:00Z"
+  },
+  {
+    "id": "38F8FA77-FD45-5797-AB2C-21AB93DFDE44",
+    "title": "Denim jacket (refurbished)",
+    "description": "Moving sale, must go this week. Pickup in Markham or local delivery.",
+    "price": 2431.97,
+    "category": "Fashion",
+    "location": "Toronto",
+    "imageURL": "https://picsum.photos/seed/fashion-84/600/600",
+    "updatedAt": "2026-09-10T06:22:00Z"
+  },
+  {
+    "id": "B529AA3D-B693-51E8-B6C5-E211A6CD6346",
+    "title": "Leather belt",
+    "description": "Moving sale, must go this week. Pickup in Oakville or local delivery.",
+    "price": 469.65,
+    "category": "Fashion",
+    "location": "Mississauga",
+    "imageURL": "https://picsum.photos/seed/fashion-85/600/600",
+    "updatedAt": "2026-09-16T08:32:00Z"
+  },
+  {
+    "id": "97291068-0056-5590-A464-6236DFFC6F9A",
+    "title": "Leather belt (refurbished)",
+    "description": "Used for one season. Pickup in Scarborough or local delivery.",
+    "price": 1645.2,
+    "category": "Fashion",
+    "location": "Pickering",
+    "imageURL": "https://picsum.photos/seed/fashion-86/600/600",
+    "updatedAt": "2026-09-01T02:16:00Z"
+  },
+  {
+    "id": "79F0419C-1027-5EE7-963B-2585E84D499E",
+    "title": "Cashmere scarf",
+    "description": "Brand new in box. Pickup in Oakville or local delivery.",
+    "price": 2045.36,
+    "category": "Fashion",
+    "location": "North York",
+    "imageURL": "https://picsum.photos/seed/fashion-87/600/600",
+    "updatedAt": "2026-09-02T12:01:00Z"
+  },
+  {
+    "id": "7C554E02-4F7D-5BD8-AE35-961FFCE8A598",
+    "title": "Cashmere scarf (refurbished)",
+    "description": "Used for one season. Pickup in Mississauga or local delivery.",
+    "price": 759.62,
+    "category": "Fashion",
+    "location": "North York",
+    "imageURL": "https://picsum.photos/seed/fashion-88/600/600",
+    "updatedAt": "2026-09-17T04:42:00Z"
+  },
+  {
+    "id": "E9952655-0BDD-58C4-8D79-ADE2C1661105",
+    "title": "Hiking backpack",
+    "description": "Includes original accessories. Pickup in Pickering or local delivery.",
+    "price": 2233.61,
+    "category": "Fashion",
+    "location": "Richmond Hill",
+    "imageURL": "https://picsum.photos/seed/fashion-89/600/600",
+    "updatedAt": "2026-09-16T04:18:00Z"
+  },
+  {
+    "id": "B5EAFDAB-EF35-51AD-8E74-2BBD28C454B9",
+    "title": "Hiking backpack (refurbished)",
+    "description": "Brand new in box. Pickup in Toronto or local delivery.",
+    "price": 1814.53,
+    "category": "Fashion",
+    "location": "Milton",
+    "imageURL": "https://picsum.photos/seed/fashion-90/600/600",
+    "updatedAt": "2026-09-17T20:27:00Z"
+  },
+  {
+    "id": "4903C3FA-4646-5E47-919A-EFEF223BBF4F",
+    "title": "KitchenAid mixer",
+    "description": "Brand new in box. Pickup in Whitby or local delivery.",
+    "price": 1838.62,
+    "category": "Home",
+    "location": "Scarborough",
+    "imageURL": "https://picsum.photos/seed/home-91/600/600",
+    "updatedAt": "2026-09-17T18:53:00Z"
+  },
+  {
+    "id": "18B18D7E-D225-5FB4-80F5-99F4FD164E82",
+    "title": "KitchenAid mixer (refurbished)",
+    "description": "Like new, barely used. Pickup in Milton or local delivery.",
+    "price": 2035.07,
+    "category": "Home",
+    "location": "Burlington",
+    "imageURL": "https://picsum.photos/seed/home-92/600/600",
+    "updatedAt": "2026-09-19T22:43:00Z"
+  },
+  {
+    "id": "FF631C87-C856-5A37-BA76-AFA0E5F7DE0D",
+    "title": "Instant Pot Duo",
+    "description": "Used for one season. Pickup in Mississauga or local delivery.",
+    "price": 2390.85,
+    "category": "Home",
+    "location": "Toronto",
+    "imageURL": "https://picsum.photos/seed/home-93/600/600",
+    "updatedAt": "2026-09-02T04:40:00Z"
+  },
+  {
+    "id": "ECC7E346-C9A3-5D47-9036-DAB9BBDB0AA3",
+    "title": "Instant Pot Duo (refurbished)",
+    "description": "Good condition, minor wear. Pickup in Oakville or local delivery.",
+    "price": 911.36,
+    "category": "Home",
+    "location": "Milton",
+    "imageURL": "https://picsum.photos/seed/home-94/600/600",
+    "updatedAt": "2026-09-15T17:03:00Z"
+  },
+  {
+    "id": "A598F336-4B40-5633-AC4D-8704828C7970",
+    "title": "Nespresso Vertuo",
+    "description": "Used for one season. Pickup in Etobicoke or local delivery.",
+    "price": 1575.0,
+    "category": "Home",
+    "location": "Vaughan",
+    "imageURL": "https://picsum.photos/seed/home-95/600/600",
+    "updatedAt": "2026-09-01T14:51:00Z"
+  },
+  {
+    "id": "FB3DEE72-8E0B-5EAC-8F63-8F9616177DD3",
+    "title": "Nespresso Vertuo (refurbished)",
+    "description": "Good condition, minor wear. Pickup in Burlington or local delivery.",
+    "price": 189.23,
+    "category": "Home",
+    "location": "Scarborough",
+    "imageURL": "https://picsum.photos/seed/home-96/600/600",
+    "updatedAt": "2026-09-03T23:47:00Z"
+  },
+  {
+    "id": "CCF04CD6-6E60-52E0-96F9-37B444AFCF39",
+    "title": "Air fryer",
+    "description": "Good condition, minor wear. Pickup in Milton or local delivery.",
+    "price": 1192.54,
+    "category": "Home",
+    "location": "Vaughan",
+    "imageURL": "https://picsum.photos/seed/home-97/600/600",
+    "updatedAt": "2026-09-08T23:48:00Z"
+  },
+  {
+    "id": "A8206813-EDE8-5069-B908-91B133CB8259",
+    "title": "Air fryer (refurbished)",
+    "description": "Smoke-free, pet-free home. Pickup in Etobicoke or local delivery.",
+    "price": 524.97,
+    "category": "Home",
+    "location": "Milton",
+    "imageURL": "https://picsum.photos/seed/home-98/600/600",
+    "updatedAt": "2026-09-13T02:30:00Z"
+  },
+  {
+    "id": "0BE7B1AC-3688-56C5-97EB-6726FDCA586B",
+    "title": "Robot vacuum",
+    "description": "Well loved, works perfectly. Pickup in Pickering or local delivery.",
+    "price": 2277.51,
+    "category": "Home",
+    "location": "Toronto",
+    "imageURL": "https://picsum.photos/seed/home-99/600/600",
+    "updatedAt": "2026-09-20T20:41:00Z"
+  },
+  {
+    "id": "6F24D2B2-D201-59F8-ABDD-FCAC758476D6",
+    "title": "Robot vacuum (refurbished)",
+    "description": "Brand new in box. Pickup in Richmond Hill or local delivery.",
+    "price": 507.75,
+    "category": "Home",
+    "location": "Vaughan",
+    "imageURL": "https://picsum.photos/seed/home-100/600/600",
+    "updatedAt": "2026-09-10T19:36:00Z"
+  },
+  {
+    "id": "0D035932-1423-5970-8E45-61B450DB7F1E",
+    "title": "Cast iron skillet set",
+    "description": "Smoke-free, pet-free home. Pickup in Toronto or local delivery.",
+    "price": 346.6,
+    "category": "Home",
+    "location": "Etobicoke",
+    "imageURL": "https://picsum.photos/seed/home-101/600/600",
+    "updatedAt": "2026-09-09T21:06:00Z"
+  },
+  {
+    "id": "153EBBE7-6B29-5D75-9128-7117A636388D",
+    "title": "Cast iron skillet set (refurbished)",
+    "description": "Smoke-free, pet-free home. Pickup in Vaughan or local delivery.",
+    "price": 1735.08,
+    "category": "Home",
+    "location": "Ajax",
+    "imageURL": "https://picsum.photos/seed/home-102/600/600",
+    "updatedAt": "2026-09-17T09:29:00Z"
+  },
+  {
+    "id": "1B3F38D6-F2F6-5C10-AA98-40C4FA8340FE",
+    "title": "Vitamix blender",
+    "description": "Good condition, minor wear. Pickup in Whitby or local delivery.",
+    "price": 1172.76,
+    "category": "Home",
+    "location": "Scarborough",
+    "imageURL": "https://picsum.photos/seed/home-103/600/600",
+    "updatedAt": "2026-09-07T09:05:00Z"
+  },
+  {
+    "id": "564FAC64-E47C-5E72-956E-B37B32FE0634",
+    "title": "Vitamix blender (refurbished)",
+    "description": "Like new, barely used. Pickup in Vaughan or local delivery.",
+    "price": 2341.59,
+    "category": "Home",
+    "location": "Etobicoke",
+    "imageURL": "https://picsum.photos/seed/home-104/600/600",
+    "updatedAt": "2026-09-03T16:28:00Z"
+  },
+  {
+    "id": "85D05806-0BBC-5626-B04D-487F649521DF",
+    "title": "Humidifier",
+    "description": "Includes original accessories. Pickup in Markham or local delivery.",
+    "price": 2485.01,
+    "category": "Home",
+    "location": "Whitby",
+    "imageURL": "https://picsum.photos/seed/home-105/600/600",
+    "updatedAt": "2026-09-07T02:37:00Z"
+  },
+  {
+    "id": "2B32EB11-C796-546C-A898-D3FF3B0BA306",
+    "title": "Humidifier (refurbished)",
+    "description": "Well loved, works perfectly. Pickup in Richmond Hill or local delivery.",
+    "price": 239.4,
+    "category": "Home",
+    "location": "Brampton",
+    "imageURL": "https://picsum.photos/seed/home-106/600/600",
+    "updatedAt": "2026-09-20T20:32:00Z"
+  },
+  {
+    "id": "0E44C2B0-3147-5698-BDCE-BF0603152400",
+    "title": "Espresso machine",
+    "description": "Good condition, minor wear. Pickup in Ajax or local delivery.",
+    "price": 709.73,
+    "category": "Home",
+    "location": "Richmond Hill",
+    "imageURL": "https://picsum.photos/seed/home-107/600/600",
+    "updatedAt": "2026-09-08T15:57:00Z"
+  },
+  {
+    "id": "152040F5-6BC2-5796-8D05-CD0B92446BF3",
+    "title": "Espresso machine (refurbished)",
+    "description": "Includes original accessories. Pickup in Toronto or local delivery.",
+    "price": 2192.22,
+    "category": "Home",
+    "location": "Brampton",
+    "imageURL": "https://picsum.photos/seed/home-108/600/600",
+    "updatedAt": "2026-09-01T15:43:00Z"
+  },
+  {
+    "id": "BD7E33CB-0777-50D9-A362-F188DD92889C",
+    "title": "Wool rug 8x10",
+    "description": "Well loved, works perfectly. Pickup in Ajax or local delivery.",
+    "price": 1135.14,
+    "category": "Home",
+    "location": "Brampton",
+    "imageURL": "https://picsum.photos/seed/home-109/600/600",
+    "updatedAt": "2026-09-14T11:24:00Z"
+  },
+  {
+    "id": "E8873734-7868-58BE-8F61-5C783E4A606C",
+    "title": "Wool rug 8x10 (refurbished)",
+    "description": "Moving sale, must go this week. Pickup in Toronto or local delivery.",
+    "price": 800.45,
+    "category": "Home",
+    "location": "Richmond Hill",
+    "imageURL": "https://picsum.photos/seed/home-110/600/600",
+    "updatedAt": "2026-09-11T12:07:00Z"
+  },
+  {
+    "id": "B89DE5DB-63CC-52F3-AD80-C0FE2C5DEC5E",
+    "title": "Floor lamp",
+    "description": "Used for one season. Pickup in Ajax or local delivery.",
+    "price": 2350.6,
+    "category": "Home",
+    "location": "Toronto",
+    "imageURL": "https://picsum.photos/seed/home-111/600/600",
+    "updatedAt": "2026-09-10T08:23:00Z"
+  },
+  {
+    "id": "97A5A59B-8B70-5E5C-9851-5E8846FB556E",
+    "title": "Floor lamp (refurbished)",
+    "description": "Includes original accessories. Pickup in Milton or local delivery.",
+    "price": 176.47,
+    "category": "Home",
+    "location": "North York",
+    "imageURL": "https://picsum.photos/seed/home-112/600/600",
+    "updatedAt": "2026-09-03T11:59:00Z"
+  },
+  {
+    "id": "73172479-84D9-5667-8A4F-85D6AA6FDFF8",
+    "title": "Bread maker",
+    "description": "Well loved, works perfectly. Pickup in Milton or local delivery.",
+    "price": 1078.71,
+    "category": "Home",
+    "location": "Toronto",
+    "imageURL": "https://picsum.photos/seed/home-113/600/600",
+    "updatedAt": "2026-09-09T03:03:00Z"
+  },
+  {
+    "id": "6AA66B9C-796F-5C6B-BD50-9419956CA5D0",
+    "title": "Bread maker (refurbished)",
+    "description": "Well loved, works perfectly. Pickup in Burlington or local delivery.",
+    "price": 2089.17,
+    "category": "Home",
+    "location": "Whitby",
+    "imageURL": "https://picsum.photos/seed/home-114/600/600",
+    "updatedAt": "2026-09-05T07:17:00Z"
+  },
+  {
+    "id": "18992595-E934-5345-9104-EA98CF07882A",
+    "title": "Knife block set",
+    "description": "Moving sale, must go this week. Pickup in Markham or local delivery.",
+    "price": 1099.06,
+    "category": "Home",
+    "location": "Pickering",
+    "imageURL": "https://picsum.photos/seed/home-115/600/600",
+    "updatedAt": "2026-09-12T13:56:00Z"
+  },
+  {
+    "id": "BCF296DB-6D0A-5ED8-BDA8-F297B7C2D3AE",
+    "title": "Knife block set (refurbished)",
+    "description": "Includes original accessories. Pickup in Whitby or local delivery.",
+    "price": 87.09,
+    "category": "Home",
+    "location": "Whitby",
+    "imageURL": "https://picsum.photos/seed/home-116/600/600",
+    "updatedAt": "2026-09-18T17:13:00Z"
+  },
+  {
+    "id": "6211C340-9739-574A-AB00-371DB15EB50C",
+    "title": "Slow cooker",
+    "description": "Like new, barely used. Pickup in Whitby or local delivery.",
+    "price": 1803.14,
+    "category": "Home",
+    "location": "Ajax",
+    "imageURL": "https://picsum.photos/seed/home-117/600/600",
+    "updatedAt": "2026-09-14T14:39:00Z"
+  },
+  {
+    "id": "94A063B1-3088-5189-B7E0-C13145503F17",
+    "title": "Slow cooker (refurbished)",
+    "description": "Well loved, works perfectly. Pickup in Etobicoke or local delivery.",
+    "price": 1885.38,
+    "category": "Home",
+    "location": "Toronto",
+    "imageURL": "https://picsum.photos/seed/home-118/600/600",
+    "updatedAt": "2026-09-18T04:10:00Z"
+  },
+  {
+    "id": "70CCE32A-E9B9-5E1C-B7FE-F013A91A3F09",
+    "title": "Air purifier",
+    "description": "Moving sale, must go this week. Pickup in Vaughan or local delivery.",
+    "price": 1188.38,
+    "category": "Home",
+    "location": "Vaughan",
+    "imageURL": "https://picsum.photos/seed/home-119/600/600",
+    "updatedAt": "2026-09-09T23:47:00Z"
+  },
+  {
+    "id": "1E8E720C-EAEC-5D9F-B049-59216213734D",
+    "title": "Air purifier (refurbished)",
+    "description": "Well loved, works perfectly. Pickup in Oakville or local delivery.",
+    "price": 2441.1,
+    "category": "Home",
+    "location": "Burlington",
+    "imageURL": "https://picsum.photos/seed/home-120/600/600",
+    "updatedAt": "2026-09-08T09:30:00Z"
+  },
+  {
+    "id": "30B03456-5D3B-57BB-919B-71B47C2F21F6",
+    "title": "Trek FX3 bike",
+    "description": "Includes original accessories. Pickup in Mississauga or local delivery.",
+    "price": 1399.94,
+    "category": "Sports",
+    "location": "Brampton",
+    "imageURL": "https://picsum.photos/seed/sports-121/600/600",
+    "updatedAt": "2026-09-06T02:13:00Z"
+  },
+  {
+    "id": "698807AF-E15C-5623-8EBB-B7982C0C312C",
+    "title": "Trek FX3 bike (refurbished)",
+    "description": "Smoke-free, pet-free home. Pickup in Scarborough or local delivery.",
+    "price": 1259.0,
+    "category": "Sports",
+    "location": "Markham",
+    "imageURL": "https://picsum.photos/seed/sports-122/600/600",
+    "updatedAt": "2026-09-15T10:48:00Z"
+  },
+  {
+    "id": "2B1385AB-28EF-5E59-A771-2CDEB71913DD",
+    "title": "Peloton bike",
+    "description": "Brand new in box. Pickup in Scarborough or local delivery.",
+    "price": 1133.15,
+    "category": "Sports",
+    "location": "Markham",
+    "imageURL": "https://picsum.photos/seed/sports-123/600/600",
+    "updatedAt": "2026-09-08T02:11:00Z"
+  },
+  {
+    "id": "09B47A19-DA2C-5693-8691-C512559F233C",
+    "title": "Peloton bike (refurbished)",
+    "description": "Good condition, minor wear. Pickup in Richmond Hill or local delivery.",
+    "price": 864.76,
+    "category": "Sports",
+    "location": "Markham",
+    "imageURL": "https://picsum.photos/seed/sports-124/600/600",
+    "updatedAt": "2026-09-12T08:51:00Z"
+  },
+  {
+    "id": "14C9A457-0401-552D-BBC1-C82A3B56C689",
+    "title": "Yoga mat + blocks",
+    "description": "Like new, barely used. Pickup in Ajax or local delivery.",
+    "price": 1430.5,
+    "category": "Sports",
+    "location": "Milton",
+    "imageURL": "https://picsum.photos/seed/sports-125/600/600",
+    "updatedAt": "2026-09-14T12:26:00Z"
+  },
+  {
+    "id": "51988C78-4CEB-5DE4-B0D0-764E2D874C3A",
+    "title": "Yoga mat + blocks (refurbished)",
+    "description": "Used for one season. Pickup in Oakville or local delivery.",
+    "price": 1868.41,
+    "category": "Sports",
+    "location": "Vaughan",
+    "imageURL": "https://picsum.photos/seed/sports-126/600/600",
+    "updatedAt": "2026-09-11T01:31:00Z"
+  },
+  {
+    "id": "0C1FE447-5438-5B38-95EE-BB782213F02C",
+    "title": "Golf clubs (full set)",
+    "description": "Moving sale, must go this week. Pickup in Brampton or local delivery.",
+    "price": 704.63,
+    "category": "Sports",
+    "location": "Burlington",
+    "imageURL": "https://picsum.photos/seed/sports-127/600/600",
+    "updatedAt": "2026-09-17T16:40:00Z"
+  },
+  {
+    "id": "43C999C5-894C-5352-AE79-2FA60A64DDE4",
+    "title": "Golf clubs (full set) (refurbished)",
+    "description": "Used for one season. Pickup in Mississauga or local delivery.",
+    "price": 1978.93,
+    "category": "Sports",
+    "location": "Vaughan",
+    "imageURL": "https://picsum.photos/seed/sports-128/600/600",
+    "updatedAt": "2026-09-08T12:25:00Z"
+  },
+  {
+    "id": "F7B5FB75-EFDA-5861-9B0B-88B8AF6BDB5D",
+    "title": "Hockey skates",
+    "description": "Includes original accessories. Pickup in Vaughan or local delivery.",
+    "price": 1619.79,
+    "category": "Sports",
+    "location": "Milton",
+    "imageURL": "https://picsum.photos/seed/sports-129/600/600",
+    "updatedAt": "2026-09-01T04:02:00Z"
+  },
+  {
+    "id": "378D33C1-66C2-54E6-A0D4-65C079F2C8EC",
+    "title": "Hockey skates (refurbished)",
+    "description": "Smoke-free, pet-free home. Pickup in North York or local delivery.",
+    "price": 1071.62,
+    "category": "Sports",
+    "location": "Etobicoke",
+    "imageURL": "https://picsum.photos/seed/sports-130/600/600",
+    "updatedAt": "2026-09-01T02:25:00Z"
+  },
+  {
+    "id": "09D51544-A77D-58EA-9D29-7D70C8A8B65E",
+    "title": "Snowboard 158cm",
+    "description": "Smoke-free, pet-free home. Pickup in Etobicoke or local delivery.",
+    "price": 2326.64,
+    "category": "Sports",
+    "location": "Markham",
+    "imageURL": "https://picsum.photos/seed/sports-131/600/600",
+    "updatedAt": "2026-09-04T07:09:00Z"
+  },
+  {
+    "id": "BB6948B4-C874-5E5A-8272-5F63F654454C",
+    "title": "Snowboard 158cm (refurbished)",
+    "description": "Good condition, minor wear. Pickup in Milton or local delivery.",
+    "price": 392.89,
+    "category": "Sports",
+    "location": "Ajax",
+    "imageURL": "https://picsum.photos/seed/sports-132/600/600",
+    "updatedAt": "2026-09-15T02:35:00Z"
+  },
+  {
+    "id": "2FB04320-0800-5283-AEB0-CC508457E92F",
+    "title": "Kayak 10ft",
+    "description": "Like new, barely used. Pickup in Pickering or local delivery.",
+    "price": 1945.5,
+    "category": "Sports",
+    "location": "Brampton",
+    "imageURL": "https://picsum.photos/seed/sports-133/600/600",
+    "updatedAt": "2026-09-08T18:58:00Z"
+  },
+  {
+    "id": "7DA83975-9B4C-5F17-B0C2-347CE45D214E",
+    "title": "Kayak 10ft (refurbished)",
+    "description": "Well loved, works perfectly. Pickup in Brampton or local delivery.",
+    "price": 108.42,
+    "category": "Sports",
+    "location": "Burlington",
+    "imageURL": "https://picsum.photos/seed/sports-134/600/600",
+    "updatedAt": "2026-09-09T16:40:00Z"
+  },
+  {
+    "id": "9A7179C3-9007-5016-A9D4-52976A0AA098",
+    "title": "Dumbbell set 50lb",
+    "description": "Good condition, minor wear. Pickup in Mississauga or local delivery.",
+    "price": 1102.01,
+    "category": "Sports",
+    "location": "Mississauga",
+    "imageURL": "https://picsum.photos/seed/sports-135/600/600",
+    "updatedAt": "2026-09-10T16:37:00Z"
+  },
+  {
+    "id": "6B6CB2C6-6A8B-5632-8D35-0C19C4F2466D",
+    "title": "Dumbbell set 50lb (refurbished)",
+    "description": "Well loved, works perfectly. Pickup in Markham or local delivery.",
+    "price": 491.38,
+    "category": "Sports",
+    "location": "Pickering",
+    "imageURL": "https://picsum.photos/seed/sports-136/600/600",
+    "updatedAt": "2026-09-20T00:00:00Z"
+  },
+  {
+    "id": "126C196B-FD5F-5659-AC9A-3927DDB907A7",
+    "title": "Tennis racket",
+    "description": "Smoke-free, pet-free home. Pickup in Vaughan or local delivery.",
+    "price": 1350.63,
+    "category": "Sports",
+    "location": "Richmond Hill",
+    "imageURL": "https://picsum.photos/seed/sports-137/600/600",
+    "updatedAt": "2026-09-08T15:33:00Z"
+  },
+  {
+    "id": "6188F5CD-1A40-51E9-AB7B-83A305CD49F8",
+    "title": "Tennis racket (refurbished)",
+    "description": "Used for one season. Pickup in Toronto or local delivery.",
+    "price": 598.4,
+    "category": "Sports",
+    "location": "Oakville",
+    "imageURL": "https://picsum.photos/seed/sports-138/600/600",
+    "updatedAt": "2026-09-10T01:01:00Z"
+  },
+  {
+    "id": "0FEE544F-850C-5AD9-ABFF-5610EA634F0F",
+    "title": "Treadmill",
+    "description": "Includes original accessories. Pickup in Mississauga or local delivery.",
+    "price": 497.38,
+    "category": "Sports",
+    "location": "Vaughan",
+    "imageURL": "https://picsum.photos/seed/sports-139/600/600",
+    "updatedAt": "2026-09-08T21:27:00Z"
+  },
+  {
+    "id": "DD0D4294-C1FE-57B1-9DB5-5080233F55D1",
+    "title": "Treadmill (refurbished)",
+    "description": "Used for one season. Pickup in Etobicoke or local delivery.",
+    "price": 2314.02,
+    "category": "Sports",
+    "location": "Toronto",
+    "imageURL": "https://picsum.photos/seed/sports-140/600/600",
+    "updatedAt": "2026-09-11T22:26:00Z"
+  },
+  {
+    "id": "2F23D5F5-85B7-573D-9213-1C6A42DA93BB",
+    "title": "Camping tent 4p",
+    "description": "Includes original accessories. Pickup in Markham or local delivery.",
+    "price": 915.36,
+    "category": "Sports",
+    "location": "Toronto",
+    "imageURL": "https://picsum.photos/seed/sports-141/600/600",
+    "updatedAt": "2026-09-10T23:54:00Z"
+  },
+  {
+    "id": "01C15EE9-A946-5A4A-86A2-F3C8B921C08C",
+    "title": "Camping tent 4p (refurbished)",
+    "description": "Used for one season. Pickup in Etobicoke or local delivery.",
+    "price": 1269.62,
+    "category": "Sports",
+    "location": "Markham",
+    "imageURL": "https://picsum.photos/seed/sports-142/600/600",
+    "updatedAt": "2026-09-10T06:14:00Z"
+  },
+  {
+    "id": "1E160563-6CBF-503F-812D-7BB4DFCBF53B",
+    "title": "Ski boots",
+    "description": "Well loved, works perfectly. Pickup in Pickering or local delivery.",
+    "price": 1170.81,
+    "category": "Sports",
+    "location": "Whitby",
+    "imageURL": "https://picsum.photos/seed/sports-143/600/600",
+    "updatedAt": "2026-09-10T03:39:00Z"
+  },
+  {
+    "id": "1D46702B-AF21-504F-B3BF-F656442AD2ED",
+    "title": "Ski boots (refurbished)",
+    "description": "Brand new in box. Pickup in Whitby or local delivery.",
+    "price": 1246.98,
+    "category": "Sports",
+    "location": "Markham",
+    "imageURL": "https://picsum.photos/seed/sports-144/600/600",
+    "updatedAt": "2026-09-16T13:58:00Z"
+  },
+  {
+    "id": "356DE58F-8204-5A33-840C-7E35BD7E3F75",
+    "title": "Basketball hoop",
+    "description": "Brand new in box. Pickup in Whitby or local delivery.",
+    "price": 1668.26,
+    "category": "Sports",
+    "location": "Oakville",
+    "imageURL": "https://picsum.photos/seed/sports-145/600/600",
+    "updatedAt": "2026-09-02T06:01:00Z"
+  },
+  {
+    "id": "954ED894-A738-59F3-A220-F5E296F47AE4",
+    "title": "Basketball hoop (refurbished)",
+    "description": "Brand new in box. Pickup in Oakville or local delivery.",
+    "price": 2435.69,
+    "category": "Sports",
+    "location": "Toronto",
+    "imageURL": "https://picsum.photos/seed/sports-146/600/600",
+    "updatedAt": "2026-09-02T05:25:00Z"
+  },
+  {
+    "id": "71BFBC1B-DCBF-53E5-825E-B702F114A58C",
+    "title": "Rowing machine",
+    "description": "Moving sale, must go this week. Pickup in Ajax or local delivery.",
+    "price": 1132.36,
+    "category": "Sports",
+    "location": "Mississauga",
+    "imageURL": "https://picsum.photos/seed/sports-147/600/600",
+    "updatedAt": "2026-09-03T05:21:00Z"
+  },
+  {
+    "id": "74B08388-8DCC-5952-8C1C-08812499E446",
+    "title": "Rowing machine (refurbished)",
+    "description": "Smoke-free, pet-free home. Pickup in Toronto or local delivery.",
+    "price": 488.85,
+    "category": "Sports",
+    "location": "Vaughan",
+    "imageURL": "https://picsum.photos/seed/sports-148/600/600",
+    "updatedAt": "2026-09-13T11:21:00Z"
+  },
+  {
+    "id": "3D02A847-B890-51B7-899B-E595D632B836",
+    "title": "Bike trainer",
+    "description": "Good condition, minor wear. Pickup in Toronto or local delivery.",
+    "price": 1114.45,
+    "category": "Sports",
+    "location": "Mississauga",
+    "imageURL": "https://picsum.photos/seed/sports-149/600/600",
+    "updatedAt": "2026-09-09T02:22:00Z"
+  },
+  {
+    "id": "2E83DFAF-6EDB-5944-8462-08A4ABF290B2",
+    "title": "Bike trainer (refurbished)",
+    "description": "Good condition, minor wear. Pickup in Scarborough or local delivery.",
+    "price": 1059.16,
+    "category": "Sports",
+    "location": "Pickering",
+    "imageURL": "https://picsum.photos/seed/sports-150/600/600",
+    "updatedAt": "2026-09-07T12:22:00Z"
+  },
+  {
+    "id": "220B509B-7D17-5785-8929-D92FE5F5C9CD",
+    "title": "iPhone 15 (bundle)",
+    "description": "Includes original accessories. Pickup in Mississauga or local delivery.",
+    "price": 228.58,
+    "category": "Electronics",
+    "location": "Markham",
+    "imageURL": "https://picsum.photos/seed/electronics-2/600/600",
+    "updatedAt": "2026-09-03T17:27:00Z"
+  },
+  {
+    "id": "01E44036-49DB-5174-B472-A3BE4185DB51",
+    "title": "MacBook Pro 14\"",
+    "description": "Good condition, minor wear. Pickup in Markham or local delivery.",
+    "price": 161.89,
+    "category": "Electronics",
+    "location": "Burlington",
+    "imageURL": "https://picsum.photos/seed/electronics-3/600/600",
+    "updatedAt": "2026-09-19T01:36:00Z"
+  },
+  {
+    "id": "0D586E6B-F665-5B31-B70E-CAF589752654",
+    "title": "MacBook Pro 14\" (refurbished)",
+    "description": "Like new, barely used. Pickup in Markham or local delivery.",
+    "price": 1470.07,
+    "category": "Electronics",
+    "location": "Toronto",
+    "imageURL": "https://picsum.photos/seed/electronics-4/600/600",
+    "updatedAt": "2026-09-18T04:18:00Z"
+  },
+  {
+    "id": "E6F0DAC4-48E9-5407-BF8E-0F6CC4DC757B",
+    "title": "iPad Air",
+    "description": "Good condition, minor wear. Pickup in North York or local delivery.",
+    "price": 1056.56,
+    "category": "Electronics",
+    "location": "Vaughan",
+    "imageURL": "https://picsum.photos/seed/electronics-5/600/600",
+    "updatedAt": "2026-09-18T21:11:00Z"
+  },
+  {
+    "id": "DA87E1E7-048B-5796-A985-9737E93087AE",
+    "title": "iPad Air (refurbished)",
+    "description": "Used for one season. Pickup in Richmond Hill or local delivery.",
+    "price": 271.09,
+    "category": "Electronics",
+    "location": "Mississauga",
+    "imageURL": "https://picsum.photos/seed/electronics-6/600/600",
+    "updatedAt": "2026-09-18T22:04:00Z"
+  },
+  {
+    "id": "4AFBEF79-C10B-50C8-819C-4360FF373185",
+    "title": "Sony WH-1000XM5",
+    "description": "Used for one season. Pickup in Etobicoke or local delivery.",
+    "price": 1417.46,
+    "category": "Electronics",
+    "location": "Burlington",
+    "imageURL": "https://picsum.photos/seed/electronics-7/600/600",
+    "updatedAt": "2026-09-18T13:49:00Z"
+  },
+  {
+    "id": "43102DEC-7F88-50C6-99F2-212821BD2D49",
+    "title": "Sony WH-1000XM5 (refurbished)",
+    "description": "Smoke-free, pet-free home. Pickup in Richmond Hill or local delivery.",
+    "price": 795.66,
+    "category": "Electronics",
+    "location": "Vaughan",
+    "imageURL": "https://picsum.photos/seed/electronics-8/600/600",
+    "updatedAt": "2026-09-08T05:44:00Z"
+  },
+  {
+    "id": "3CB3BA78-BEC4-5E47-AA52-70D1F263BE24",
+    "title": "Nintendo Switch OLED",
+    "description": "Good condition, minor wear. Pickup in North York or local delivery.",
+    "price": 1952.88,
+    "category": "Electronics",
+    "location": "Vaughan",
+    "imageURL": "https://picsum.photos/seed/electronics-9/600/600",
+    "updatedAt": "2026-09-17T15:56:00Z"
+  },
+  {
+    "id": "731470F5-AFA4-56AC-A362-B50AE29BA03D",
+    "title": "Nintendo Switch OLED (refurbished)",
+    "description": "Smoke-free, pet-free home. Pickup in Vaughan or local delivery.",
+    "price": 868.54,
+    "category": "Electronics",
+    "location": "North York",
+    "imageURL": "https://picsum.photos/seed/electronics-10/600/600",
+    "updatedAt": "2026-09-03T03:32:00Z"
+  },
+  {
+    "id": "7CE582F8-7426-5AA6-A7F3-2B80B3077776",
+    "title": "Samsung 55\" QLED TV",
+    "description": "Moving sale, must go this week. Pickup in Brampton or local delivery.",
+    "price": 1054.04,
+    "category": "Electronics",
+    "location": "Whitby",
+    "imageURL": "https://picsum.photos/seed/electronics-11/600/600",
+    "updatedAt": "2026-09-16T13:02:00Z"
+  },
+  {
+    "id": "4311D5FD-3FDA-59C4-9607-7ADC6383ED61",
+    "title": "Samsung 55\" QLED TV (refurbished)",
+    "description": "Good condition, minor wear. Pickup in Pickering or local delivery.",
+    "price": 2405.62,
+    "category": "Electronics",
+    "location": "Scarborough",
+    "imageURL": "https://picsum.photos/seed/electronics-12/600/600",
+    "updatedAt": "2026-09-19T10:21:00Z"
+  },
+  {
+    "id": "29B61880-32E5-55C5-9989-2E24AD808041",
+    "title": "Kindle Paperwhite",
+    "description": "Smoke-free, pet-free home. Pickup in North York or local delivery.",
+    "price": 1742.81,
+    "category": "Electronics",
+    "location": "Pickering",
+    "imageURL": "https://picsum.photos/seed/electronics-13/600/600",
+    "updatedAt": "2026-09-15T02:53:00Z"
+  },
+  {
+    "id": "15D6374F-1EAE-53F1-BBA7-7AC04EEFCCF8",
+    "title": "Kindle Paperwhite (refurbished)",
+    "description": "Well loved, works perfectly. Pickup in Etobicoke or local delivery.",
+    "price": 247.59,
+    "category": "Electronics",
+    "location": "Ajax",
+    "imageURL": "https://picsum.photos/seed/electronics-14/600/600",
+    "updatedAt": "2026-09-03T01:46:00Z"
+  },
+  {
+    "id": "E12D84D1-4A52-5D50-95BF-4BB5D467CF57",
+    "title": "GoPro Hero 12",
+    "description": "Smoke-free, pet-free home. Pickup in Vaughan or local delivery.",
+    "price": 1758.21,
+    "category": "Electronics",
+    "location": "Ajax",
+    "imageURL": "https://picsum.photos/seed/electronics-15/600/600",
+    "updatedAt": "2026-09-13T21:22:00Z"
+  },
+  {
+    "id": "F49A2E0E-B90F-5AA0-BD3F-AC8B7EF5AD36",
+    "title": "GoPro Hero 12 (refurbished)",
+    "description": "Smoke-free, pet-free home. Pickup in Richmond Hill or local delivery.",
+    "price": 71.07,
+    "category": "Electronics",
+    "location": "Brampton",
+    "imageURL": "https://picsum.photos/seed/electronics-16/600/600",
+    "updatedAt": "2026-09-20T03:31:00Z"
+  },
+  {
+    "id": "E5F820F8-047E-554C-958C-2A6430BDE2D0",
+    "title": "Apple Watch Series 9",
+    "description": "Well loved, works perfectly. Pickup in Brampton or local delivery.",
+    "price": 161.5,
+    "category": "Electronics",
+    "location": "Ajax",
+    "imageURL": "https://picsum.photos/seed/electronics-17/600/600",
+    "updatedAt": "2026-09-08T12:25:00Z"
+  },
+  {
+    "id": "426D6231-B964-5EE6-9023-E11B37C7B010",
+    "title": "Apple Watch Series 9 (refurbished)",
+    "description": "Smoke-free, pet-free home. Pickup in Mississauga or local delivery.",
+    "price": 2293.29,
+    "category": "Electronics",
+    "location": "Brampton",
+    "imageURL": "https://picsum.photos/seed/electronics-18/600/600",
+    "updatedAt": "2026-09-15T12:35:00Z"
+  },
+  {
+    "id": "5A4A0030-3A62-5C75-A4E9-A3DA89A0F059",
+    "title": "Bose SoundLink",
+    "description": "Brand new in box. Pickup in Milton or local delivery.",
+    "price": 705.43,
+    "category": "Electronics",
+    "location": "Oakville",
+    "imageURL": "https://picsum.photos/seed/electronics-19/600/600",
+    "updatedAt": "2026-09-18T08:45:00Z"
+  },
+  {
+    "id": "F4B2D43D-2BD6-5D63-9F8A-775C2F0FAC2A",
+    "title": "Bose SoundLink (refurbished)",
+    "description": "Moving sale, must go this week. Pickup in Burlington or local delivery.",
+    "price": 1047.01,
+    "category": "Electronics",
+    "location": "Whitby",
+    "imageURL": "https://picsum.photos/seed/electronics-20/600/600",
+    "updatedAt": "2026-09-13T07:09:00Z"
+  },
+  {
+    "id": "C9B9B185-5F9E-5D50-A30E-75AE24A1615C",
+    "title": "Dyson V15",
+    "description": "Brand new in box. Pickup in Markham or local delivery.",
+    "price": 221.22,
+    "category": "Electronics",
+    "location": "Burlington",
+    "imageURL": "https://picsum.photos/seed/electronics-21/600/600",
+    "updatedAt": "2026-09-08T00:31:00Z"
+  },
+  {
+    "id": "17A6BB3C-950D-5991-A83A-91E7703314E4",
+    "title": "Dyson V15 (refurbished)",
+    "description": "Brand new in box. Pickup in Vaughan or local delivery.",
+    "price": 2080.27,
+    "category": "Electronics",
+    "location": "Vaughan",
+    "imageURL": "https://picsum.photos/seed/electronics-22/600/600",
+    "updatedAt": "2026-09-01T04:26:00Z"
+  },
+  {
+    "id": "DAF2C257-63C0-5E8E-94DD-7AC552B100EF",
+    "title": "Canon EOS R50",
+    "description": "Moving sale, must go this week. Pickup in Brampton or local delivery.",
+    "price": 1343.46,
+    "category": "Electronics",
+    "location": "Ajax",
+    "imageURL": "https://picsum.photos/seed/electronics-23/600/600",
+    "updatedAt": "2026-09-17T19:41:00Z"
+  },
+  {
+    "id": "8CA11A3C-DE57-5260-96EB-9AAB70B20D3C",
+    "title": "Canon EOS R50 (refurbished)",
+    "description": "Like new, barely used. Pickup in Etobicoke or local delivery.",
+    "price": 1695.36,
+    "category": "Electronics",
+    "location": "Whitby",
+    "imageURL": "https://picsum.photos/seed/electronics-24/600/600",
+    "updatedAt": "2026-09-18T12:25:00Z"
+  },
+  {
+    "id": "8B443DC5-39E3-5DC7-9C73-3C75F9487B2B",
+    "title": "PS5 Slim",
+    "description": "Good condition, minor wear. Pickup in Etobicoke or local delivery.",
+    "price": 1006.46,
+    "category": "Electronics",
+    "location": "Burlington",
+    "imageURL": "https://picsum.photos/seed/electronics-25/600/600",
+    "updatedAt": "2026-09-13T01:12:00Z"
+  },
+  {
+    "id": "208E799B-2260-5B50-90AE-1C69E892C7B4",
+    "title": "PS5 Slim (refurbished)",
+    "description": "Used for one season. Pickup in Etobicoke or local delivery.",
+    "price": 182.36,
+    "category": "Electronics",
+    "location": "Brampton",
+    "imageURL": "https://picsum.photos/seed/electronics-26/600/600",
+    "updatedAt": "2026-09-04T10:38:00Z"
+  },
+  {
+    "id": "0295FC3E-A360-52A3-B250-BD5EE909D2FA",
+    "title": "Mechanical keyboard",
+    "description": "Like new, barely used. Pickup in North York or local delivery.",
+    "price": 145.65,
+    "category": "Electronics",
+    "location": "Brampton",
+    "imageURL": "https://picsum.photos/seed/electronics-27/600/600",
+    "updatedAt": "2026-09-18T03:23:00Z"
+  },
+  {
+    "id": "05FBA53A-E9E2-5686-9780-D3325BD0E07A",
+    "title": "Mechanical keyboard (refurbished)",
+    "description": "Good condition, minor wear. Pickup in Milton or local delivery.",
+    "price": 1540.14,
+    "category": "Electronics",
+    "location": "Markham",
+    "imageURL": "https://picsum.photos/seed/electronics-28/600/600",
+    "updatedAt": "2026-09-20T12:09:00Z"
+  },
+  {
+    "id": "3E8F739B-7FC0-51F5-85AA-C46B828E3A61",
+    "title": "4K monitor 27\"",
+    "description": "Moving sale, must go this week. Pickup in North York or local delivery.",
+    "price": 1591.51,
+    "category": "Electronics",
+    "location": "Richmond Hill",
+    "imageURL": "https://picsum.photos/seed/electronics-29/600/600",
+    "updatedAt": "2026-09-16T03:07:00Z"
+  },
+  {
+    "id": "A12B936C-A8CB-5E5E-B63D-091108CC65FE",
+    "title": "4K monitor 27\" (refurbished)",
+    "description": "Smoke-free, pet-free home. Pickup in Etobicoke or local delivery.",
+    "price": 2124.61,
+    "category": "Electronics",
+    "location": "Etobicoke",
+    "imageURL": "https://picsum.photos/seed/electronics-30/600/600",
+    "updatedAt": "2026-09-10T02:09:00Z"
+  },
+  {
+    "id": "F4875865-DA03-5391-839B-C7CEBEC59824",
+    "title": "Oak dining table",
+    "description": "Moving sale, must go this week. Pickup in Ajax or local delivery.",
+    "price": 268.94,
+    "category": "Furniture",
+    "location": "Vaughan",
+    "imageURL": "https://picsum.photos/seed/furniture-31/600/600",
+    "updatedAt": "2026-09-16T22:10:00Z"
+  },
+  {
+    "id": "EC20A812-6214-5BBC-A73A-ECEBEC66E0CC",
+    "title": "Oak dining table (refurbished)",
+    "description": "Used for one season. Pickup in Scarborough or local delivery.",
+    "price": 1298.09,
+    "category": "Furniture",
+    "location": "Richmond Hill",
+    "imageURL": "https://picsum.photos/seed/furniture-32/600/600",
+    "updatedAt": "2026-09-05T22:34:00Z"
+  },
+  {
+    "id": "5ED06341-872B-5302-B432-CA3B2833542C",
+    "title": "IKEA Kallax shelf",
+    "description": "Well loved, works perfectly. Pickup in Burlington or local delivery.",
+    "price": 2286.65,
+    "category": "Furniture",
+    "location": "Milton",
+    "imageURL": "https://picsum.photos/seed/furniture-33/600/600",
+    "updatedAt": "2026-09-03T22:54:00Z"
+  },
+  {
+    "id": "561E7FBD-06C9-5F1D-A32A-00E93606BD08",
+    "title": "IKEA Kallax shelf (refurbished)",
+    "description": "Moving sale, must go this week. Pickup in Whitby or local delivery.",
+    "price": 663.87,
+    "category": "Furniture",
+    "location": "Brampton",
+    "imageURL": "https://picsum.photos/seed/furniture-34/600/600",
+    "updatedAt": "2026-09-12T07:34:00Z"
+  },
+  {
+    "id": "B75B866B-455B-5550-B5E0-278F671DEAC4",
+    "title": "Standing desk",
+    "description": "Moving sale, must go this week. Pickup in Burlington or local delivery.",
+    "price": 1360.79,
+    "category": "Furniture",
+    "location": "Markham",
+    "imageURL": "https://picsum.photos/seed/furniture-35/600/600",
+    "updatedAt": "2026-09-20T06:51:00Z"
+  },
+  {
+    "id": "C0C51298-C0A4-57DE-A29A-54056CC7048B",
+    "title": "Standing desk (refurbished)",
+    "description": "Includes original accessories. Pickup in Ajax or local delivery.",
+    "price": 609.88,
+    "category": "Furniture",
+    "location": "Pickering",
+    "imageURL": "https://picsum.photos/seed/furniture-36/600/600",
+    "updatedAt": "2026-09-08T06:33:00Z"
+  },
+  {
+    "id": "CF89AD19-DEE3-5530-8146-68CB05F2B65C",
+    "title": "Leather sofa",
+    "description": "Like new, barely used. Pickup in Toronto or local delivery.",
+    "price": 1239.56,
+    "category": "Furniture",
+    "location": "Pickering",
+    "imageURL": "https://picsum.photos/seed/furniture-37/600/600",
+    "updatedAt": "2026-09-09T15:16:00Z"
+  },
+  {
+    "id": "AF57B0F2-FCEE-5499-BB8E-F22339E7B8A1",
+    "title": "Leather sofa (refurbished)",
+    "description": "Moving sale, must go this week. Pickup in Etobicoke or local delivery.",
+    "price": 496.21,
+    "category": "Furniture",
+    "location": "Pickering",
+    "imageURL": "https://picsum.photos/seed/furniture-38/600/600",
+    "updatedAt": "2026-09-12T11:05:00Z"
+  },
+  {
+    "id": "31E2AE83-F16F-543A-AB76-1BCA6E911018",
+    "title": "Queen bed frame",
+    "description": "Used for one season. Pickup in Etobicoke or local delivery.",
+    "price": 562.85,
+    "category": "Furniture",
+    "location": "Markham",
+    "imageURL": "https://picsum.photos/seed/furniture-39/600/600",
+    "updatedAt": "2026-09-11T06:30:00Z"
+  },
+  {
+    "id": "37B2C7C3-0DB4-54A0-92AA-D05DF39B251C",
+    "title": "Queen bed frame (refurbished)",
+    "description": "Like new, barely used. Pickup in Etobicoke or local delivery.",
+    "price": 1565.8,
+    "category": "Furniture",
+    "location": "Whitby",
+    "imageURL": "https://picsum.photos/seed/furniture-40/600/600",
+    "updatedAt": "2026-09-12T20:05:00Z"
+  },
+  {
+    "id": "FA0527FC-3607-5F20-B730-E52EB4699253",
+    "title": "Bookshelf",
+    "description": "Good condition, minor wear. Pickup in Whitby or local delivery.",
+    "price": 2089.1,
+    "category": "Furniture",
+    "location": "Oakville",
+    "imageURL": "https://picsum.photos/seed/furniture-41/600/600",
+    "updatedAt": "2026-09-07T15:56:00Z"
+  },
+  {
+    "id": "BA4D2CEC-12D5-5697-8949-D7A4013DD5C0",
+    "title": "Bookshelf (refurbished)",
+    "description": "Moving sale, must go this week. Pickup in Mississauga or local delivery.",
+    "price": 458.63,
+    "category": "Furniture",
+    "location": "Pickering",
+    "imageURL": "https://picsum.photos/seed/furniture-42/600/600",
+    "updatedAt": "2026-09-13T14:25:00Z"
+  },
+  {
+    "id": "4EDB6ED8-A6E7-5297-BD5C-4ED9426EA2FC",
+    "title": "Office chair",
+    "description": "Good condition, minor wear. Pickup in Ajax or local delivery.",
+    "price": 1862.23,
+    "category": "Furniture",
+    "location": "Brampton",
+    "imageURL": "https://picsum.photos/seed/furniture-43/600/600",
+    "updatedAt": "2026-09-06T04:01:00Z"
+  },
+  {
+    "id": "2636B5A3-7B0C-56ED-8A95-DBBDD926800C",
+    "title": "Office chair (refurbished)",
+    "description": "Smoke-free, pet-free home. Pickup in Pickering or local delivery.",
+    "price": 390.61,
+    "category": "Furniture",
+    "location": "Burlington",
+    "imageURL": "https://picsum.photos/seed/furniture-44/600/600",
+    "updatedAt": "2026-09-05T19:52:00Z"
+  },
+  {
+    "id": "333E31D4-3356-5E91-A155-696564533497",
+    "title": "Coffee table",
+    "description": "Smoke-free, pet-free home. Pickup in Burlington or local delivery.",
+    "price": 1495.74,
+    "category": "Furniture",
+    "location": "Whitby",
+    "imageURL": "https://picsum.photos/seed/furniture-45/600/600",
+    "updatedAt": "2026-09-12T04:35:00Z"
+  },
+  {
+    "id": "DE1BC8FE-171A-57C3-934C-B0FCBBCD9333",
+    "title": "Coffee table (refurbished)",
+    "description": "Like new, barely used. Pickup in Toronto or local delivery.",
+    "price": 1377.49,
+    "category": "Furniture",
+    "location": "Pickering",
+    "imageURL": "https://picsum.photos/seed/furniture-46/600/600",
+    "updatedAt": "2026-09-04T16:47:00Z"
+  },
+  {
+    "id": "13EBCD45-77EC-5AF5-849A-C8B9273D4636",
+    "title": "Bar stools (set of 2)",
+    "description": "Includes original accessories. Pickup in Milton or local delivery.",
+    "price": 2335.06,
+    "category": "Furniture",
+    "location": "Markham",
+    "imageURL": "https://picsum.photos/seed/furniture-47/600/600",
+    "updatedAt": "2026-09-07T00:16:00Z"
+  },
+  {
+    "id": "1F644DEF-902C-5960-B93F-6475F36BADF8",
+    "title": "Bar stools (set of 2) (refurbished)",
+    "description": "Used for one season. Pickup in Pickering or local delivery.",
+    "price": 543.76,
+    "category": "Furniture",
+    "location": "North York",
+    "imageURL": "https://picsum.photos/seed/furniture-48/600/600",
+    "updatedAt": "2026-09-11T08:34:00Z"
+  },
+  {
+    "id": "DD60A3D2-27D3-5C27-9EB4-F9CBF0AF74E7",
+    "title": "Wardrobe",
+    "description": "Brand new in box. Pickup in Toronto or local delivery.",
+    "price": 1056.25,
+    "category": "Furniture",
+    "location": "Whitby",
+    "imageURL": "https://picsum.photos/seed/furniture-49/600/600",
+    "updatedAt": "2026-09-12T14:42:00Z"
+  },
+  {
+    "id": "8370AF6B-C06E-56F7-A088-F0B42AEC8203",
+    "title": "iPhone 15",
+    "description": "Brand new in box. Pickup in Oakville or local delivery.",
+    "price": 819.72,
+    "category": "Electronics",
+    "location": "Burlington",
+    "imageURL": "https://picsum.photos/seed/electronics-0/600/600",
+    "updatedAt": "2026-09-02T02:52:00Z"
+  }
+]
