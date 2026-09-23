@@ -15,13 +15,11 @@ import Foundation
 final class MarketplaceRepository {
     private let api: MarketplaceAPI
     private let store: ListingsStore
-    private let imageStore: ImageStore
     private let now: () -> Date
 
-    init(api: MarketplaceAPI, store: ListingsStore, imageStore: ImageStore, now: @escaping () -> Date = Date.init) {
+    init(api: MarketplaceAPI, store: ListingsStore, now: @escaping () -> Date = Date.init) {
         self.api = api
         self.store = store
-        self.imageStore = imageStore
         self.now = now
     }
 
@@ -48,8 +46,7 @@ final class MarketplaceRepository {
     @discardableResult
     func create(_ draft: ListingDraft) async throws -> Listing {
         let listing = Listing(id: UUID(), title: draft.title, description: draft.description, price: draft.price, category: draft.category,
-                              location: draft.location, imageURL: nil, localImageName: draft.localImageName, updatedAt: now(),
-                              isFavorite: false, syncStatus: .pending)
+                              location: draft.location, imageURL: nil, localImageName: draft.localImageName, updatedAt: now(), syncStatus: .pending)
         try await store.save([listing])
         return listing
     }
@@ -71,5 +68,29 @@ final class MarketplaceRepository {
         guard var listing = try await store.fetchAll().first(where: { $0.id == id }) else { return }
         listing.isFavorite.toggle()
         try await store.save([listing])   // favorites are local only, no sync needed
+    }
+
+    /// Uploads every pending listing. Stops at the first connectivity error (they stay pending);
+    /// any other error marks that listing `failed` and moves on. Returns how many were uploaded.
+    @discardableResult
+    func syncPending() async throws -> Int {
+        var uploaded = 0
+        for listing in try await store.fetchAll() where listing.syncStatus != .synced {
+            do {
+                var synced = try await api.upsert(listing)
+                if let name = listing.localImageName, synced.imageURL == nil {
+                    synced.imageURL = try await api.uploadImage(try Data(contentsOf: ImageStorage.fileURL(named: name)), for: listing.id)
+                }
+                try await store.save([synced])
+                uploaded += 1
+            } catch APIError.offline {
+                throw APIError.offline
+            } catch {
+                var failed = listing
+                failed.syncStatus = .failed
+                try await store.save([failed])
+            }
+        }
+        return uploaded
     }
 }
