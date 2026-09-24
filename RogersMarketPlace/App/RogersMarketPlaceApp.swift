@@ -19,8 +19,13 @@ struct RogersMarketPlaceApp: App {
 
         let server = MockMarketplaceServer()
         let session = server.makeSession()
-        let support = try! FileManager.default.url(for: .applicationSupportDirectory, in: .userDomainMask, appropriateFor: nil, create: true)
-        let store = try! CoreDataListingsStore(storeURL: support.appendingPathComponent(AppConfig.databaseFileName))
+        let store: CoreDataListingsStore
+        do {
+            let support = try FileManager.default.url(for: .applicationSupportDirectory, in: .userDomainMask, appropriateFor: nil, create: true)
+            store = try CoreDataListingsStore(storeURL: support.appendingPathComponent(AppConfig.databaseFileName))
+        } catch {
+            fatalError("Could not open the local database: \(error)")   // nothing to show without it
+        }
         let api = APIClient(baseURL: MockMarketplaceServer.baseURL, session: session, tokenStore: KeychainTokenStore())
         let repository = MarketplaceRepository(api: api, store: store)
         let network = NetworkMonitor()
